@@ -59,6 +59,12 @@ If you have any trouble with selenium, you can go to the website: https://seleni
 
 ### Installation
 
+Before running:
+
+IF YOU ARE USING CHROME you should change the following line of code to wherever your chromedriver.exe file is
+
+PATH = "E:\VS Code\DailyMath\chromedriver.exe"
+
 You really only need to download and run the python file. Depending on your browser you might need a specific driver somewhere too, like for example if you're using chrome (like me) then you'll also need the chromedriver.exe which might be outdated depending on when you're reading this. To download that you can go to https://chromedriver.chromium.org/home.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
