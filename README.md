@@ -105,6 +105,7 @@ From there I just type in one of the class names
 - [ ] Right now not really scraping just re-directing to problems for each website
 - [ ] Have a way to make more questions more random (worried about repeating questions), or have some sort of question pool and people can opt to choose if they want to see that question again or not
 - [ ] Implement a way for people to get problems from all the classes in a question pool
+- [ ] Make this a GUI one day
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
