@@ -44,7 +44,7 @@ I've always liked the idea of having a brain 'warm-up' much like stretching befo
 
 ## Prerequisites
 
-As of 7/31/2022 (v0.1)
+As of 7/31/2022 (v0.2)
 
 Import the following libraries:
 
@@ -52,6 +52,8 @@ Import the following libraries:
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+import random
+
 
 # Can use pip install for these
 ```
@@ -101,8 +103,8 @@ From there I just type in one of the class names
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Make more user friendly. Also if mispelled should allow for easy retrying to type the name and not have to re-run program
-- [ ] Right now not really scraping just re-directing to problems for each website, so actually scrape the website
+- [x] Make more user friendly by checking if mispelled. Should allow for easy retrying to type the name and not have to re-run program
+- [x] Right now not really scraping just re-directing to problems for each website, so actually scrape the website
 - [ ] Have a way to make more questions more random (worried about repeating questions), or have some sort of question pool and people can opt to choose if they want to see that question again or not
 - [ ] Quick way to restart so that if a problem is repeat/too easy, can get a new problem
 - [ ] Implement a way for people to get problems from all the classes in a question pool
