@@ -4,7 +4,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# DailyMath v0.1
+# DailyMath v0.2
  A program to give me a daily math (Algebra to Differential Equations) problem to solve. 
   
 
