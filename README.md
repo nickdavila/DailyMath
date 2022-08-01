@@ -134,8 +134,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Nick Davila - ndavila@utexas.edu
 
-Project Link: [https://github.com/nickdavila/LAE-ML-Classification](https://github.com/nickdavila/LAE-ML-Classification)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
