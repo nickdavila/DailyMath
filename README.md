@@ -44,7 +44,7 @@ I've always liked the idea of having a brain 'warm-up' much like stretching befo
 
 ## Prerequisites
 
-As of 7/31/2022 (v0.2)
+As of 7/31/2022 (v0.3)
 
 Import the following libraries:
 
