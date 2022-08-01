@@ -88,8 +88,6 @@ Calc2
 
 Calc3
 
-Diff Eq
-
 All classes (ideally, but not yet implemented)
 
 Which class do you want to get a problem for?
@@ -109,6 +107,7 @@ From there I just type in one of the class names
 - [ ] Quick way to restart so that if a problem is repeat/too easy, can get a new problem
 - [ ] Implement a way for people to get problems from all the classes in a question pool
 - [ ] Make this a GUI one day
+- [ ] Look into making this into a chrome extension for easier running
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
