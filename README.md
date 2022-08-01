@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # DailyMath v0.3
- A program to give me a daily math (Algebra to Differential Equations) problem to solve. 
+ A program to give me a daily math (Algebra to Calculus III) problem to solve. 
   
 
 
